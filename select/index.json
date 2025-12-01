@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Until I Have You",
+  "base_artist": "Lil Pitchy、Roomie",
+  "createdAt": "2025-12-01T03:41:09.015663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Live Until I Die",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/01_Live_Until_I_Die_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Live Until I Die (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/02_Live_Until_I_Die_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Say You'll Stay Until Tomorrow",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/03_Say_You'll_Stay_Until_Tomorrow_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Until My Dreams Come True",
+      "artist": "Jack Greene",
+      "has_synced": false,
+      "path": "select/04_Until_My_Dreams_Come_True_Jack_Greene.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Until You're Over Me",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/05_Until_You're_Over_Me_Maroon_5.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Until You're Over Me",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/06_Until_You're_Over_Me_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Until There Is No End",
+      "artist": "Lorn",
+      "has_synced": true,
+      "path": "select/07_Until_There_Is_No_End_Lorn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Until the Last Goodbye",
+      "artist": "Larry Heard",
+      "has_synced": false,
+      "path": "select/08_Until_the_Last_Goodbye_Larry_Heard.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Until the Night is Over",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/09_Until_the_Night_is_Over_M83.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Until You Find Out",
+      "artist": "Ned's Atomic Dustbin",
+      "has_synced": true,
+      "path": "select/10_Until_You_Find_Out_Ned's_Atomic_Dustbin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Until Then",
+      "artist": "Orcas",
+      "has_synced": true,
+      "path": "select/11_Until_Then_Orcas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Am Stretched on Your Grave - Night Until Morning Dub / Earthapella",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/12_I_Am_Stretched_on_Your_Grave_-_Night_Until_Morning_Dub___Earthapella_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Am Stretched On Your Grave (Night Until Morning Dub/Earthapella)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/13_I_Am_Stretched_On_Your_Grave_(Night_Until_Morning_Dub_Earthapella)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Until The End Of The World",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/14_Until_The_End_Of_The_World_U2.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Until The Morning",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/15_Until_The_Morning_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "until the blouse is buttoned up",
+      "artist": "BIGMAMA",
+      "has_synced": false,
+      "path": "select/pl_01_until_the_blouse_is_buttoned_up_BIGMAMA.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "UNTIL THE LAST DAY",
+      "artist": "BIGMAMA",
+      "has_synced": false,
+      "path": "select/pl_02_UNTIL_THE_LAST_DAY_BIGMAMA.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Until It's Gone",
+      "artist": "BIGMAMA",
+      "has_synced": false,
+      "path": "select/pl_03_Until_It's_Gone_BIGMAMA.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Until…",
+      "artist": "BIGMAMA",
+      "has_synced": false,
+      "path": "select/pl_04_Until..._BIGMAMA.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Until Strawberry Sherbet",
+      "artist": "BIGMAMA",
+      "has_synced": false,
+      "path": "select/pl_05_Until_Strawberry_Sherbet_BIGMAMA.txt"
+    }
+  ]
+}
